@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vale
-- 📫 info@varocsas - vale.rocha@proton.me
+- 📫 vale.rocha@proton.me
 
 As a Computer Scientist and Software Engineer with 14+ years of experience, I've led high-impact projects, specializing in user-centric development, optimization of performance and data management in dynamic environments. 
 
